@@ -6,8 +6,8 @@
   },
   "rich-text": {
     "props": {
-      "text": "*Este es el mensaje*, lorem ipsum color sit amet.",
-      "textPosition": "CENTER"
+      "text": "**Este es el mensaje, lorem ipsum color sit amet.**",
+      "textPosition": "RIGHT"
     }
   }
 }
