@@ -25,11 +25,11 @@
     },
     "children": [
       "product-name",
-      "product-price#prod-price",
+      "product-price",
       "buy-button"
     ]
   },
-  "product-price#prod-price": {
+  "product-price": {
     "props": {
       "showSavings": true,
       "showListPrice": true
